@@ -41,7 +41,7 @@ Notebooks after execution are stored in ``notebooks4pdf/`` temporary subfolder, 
 
 ## Try me  on mybinder!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenDreamKit/authoring_cookie_cutter/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcinofulus/mybook/master)
 
 
 ## Acknowledgments
